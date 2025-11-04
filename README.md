@@ -4,7 +4,7 @@ CopiarEditar
 # Mi hoja de vida
 **Nombre completo:** Jhonatan Alexander Méndez Guerrero
 **Correo electrónico:** jhonatan.mendez@uniminuto.edu.co
-**edad**:** 19
+**edad:** 19
 ## Formación académica
 - Bachiller Técnico en Informática
 - Estudiante de Ingeniería de Sistemas en UNIMINUTO
