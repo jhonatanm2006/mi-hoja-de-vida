@@ -6,7 +6,7 @@ CopiarEditar
 - **Correo electrónico:** jhonatan.mendez@uniminuto.edu.co
 - **edad:** 19 años
 ## Formación académica
-- Bachiller Técnico en Informática
+- Bachiller, Técnico en sistemas
 - Estudiante de Ingeniería de Sistemas en UNIMINUTO
 ## Habilidades
 - Conocimientos básicos en programación
